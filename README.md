@@ -1,2 +1,3 @@
-# fast-monitoring-tool-asoe
-A repository to test GitHub automation for issue management
+# Fast Monitoring Tool Asoe
+
+A repository to test GitHub automation for issue management.
